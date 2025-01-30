@@ -1,0 +1,351 @@
+
+.header
+{
+    width: 100%;
+    height: 97px;
+}
+.upperNav
+{
+  height: 62%; 
+  background-color: #131921; 
+}
+.lowerNav
+{
+    height: 57%;
+    background-color: #232f3e;
+    padding-left: 12px;
+}
+body
+{
+margin: 0%;
+background-color: #ababa2;
+}
+.logo
+{
+    height: 57px;
+    float: left;
+    padding-left: 10px;
+}
+#nav-Location
+{
+    margin: 5px 2px 5px 0;
+    padding-top: 5px;
+    width: 162px;
+    float: left;
+    padding-left: 12px;
+}
+.locationLine1
+{
+    color: #ccc;
+    font-family: sans-serif;
+    float: left;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+.locationLine2
+{
+    float: left;
+    font-size: 14px;
+    margin: -2px;
+    padding-left: 7px;
+}
+.nav-Search
+{
+    float: left;
+    width: 51%;
+    height: 73%;
+    padding-left: 20px;
+}
+.searchDropout
+{       height: 43px;
+    width: 7%;
+    border-radius: 7px 0px 0px 7px;
+    background-color:  #e7ebe7;
+    font-size: 12px;
+    float: left;
+}
+.searchBar
+{
+    border-left: 1px solid #bec4be;
+    margin: -6px;
+    width: 86%;
+    font-family: caliri;
+    float: left;
+    margin-top: 0px;
+    height: 37px;
+    font-size: 16px;
+    border-right: 1px solid #bec4be;
+}
+.searchTab{
+    height: 42px;
+    width: 6%;
+    background-color: #febd69;
+    border-radius: 0px 7px 7px 0px;
+    border-left-color: #febd69;
+}
+#nav-SearchTab{
+    height: 38px;
+    padding-top: 10px
+}
+.nav-Tools
+{
+    display: flex;
+        position: static; 
+        margin-top: 2px;
+    padding: 3px 0 0 0;
+    height: 56px;
+    margin-right: 0;
+    margin-left: 1px;
+    padding-left: 9px;
+}
+.font-navLocation
+{
+    text-decoration-line: none;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.nav-Button
+{
+   
+    padding-left: 5px;
+    padding-top: 18px;
+  
+}
+.nav-Signin
+{
+    color: whitesmoke;
+    padding-left: 21px;
+    padding-top: 5px;
+}
+.nav-Orders
+{
+    padding-left: 17px;
+    padding-top: 4px;
+}
+.bg-Slide
+{
+    width: 100%;
+}
+.main-container
+{
+    margin-left: 10px;
+    margin-right: 4px;
+        height: 100%;
+        width: 99%;
+    float: left;
+}
+.background
+{
+    background-image: url('images/img3.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 440px;
+        width: 100%;
+}
+
+.slide-swiper
+{
+    height: 240px;
+    float: left;
+}
+.box
+{
+    padding: 15px;
+    float:left;
+    margin-left: 15px;
+    width:326px;
+    background-color: white;
+}
+.heading
+{
+    font-size: 20px;
+    margin-top: 11px;
+}
+.sub-box{
+    height: 130px;
+    width: 148px;
+    margin-right: 15px;
+    float: left;
+}
+.sub-box1
+{
+    float: left;
+    width: 145px;
+    margin-left: 15px;
+    height: 85px;
+}
+#nav-footer
+{
+    background-color:#2a3e55;
+    height: 50px;
+    float: left;
+    width: 100%;
+}
+#navFooter-BackToTop
+{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+#navFooter-Accessibility
+{
+    background-color: #1a293a;
+    height: 430px;
+    float: left;
+    width: 100%;
+}
+.Accessibility
+{
+    padding-left: 17%;
+    padding-right: 17%;
+     background-color: #232f3d;
+    padding-top: 45px;
+    height: 89%;
+}
+.navFooterLinkCol-navAccessibility
+{
+    width: 20%;
+    height: 100%;
+    float: left;
+    color: white;
+    padding-right: 5%;
+}
+.nav-a{
+color: white;
+list-style-type:none
+}
+.list
+{
+        list-style-type: none;
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0px;
+        color: #dedcdc;
+}
+.navFooterColHead
+{
+    font-weight: bold;
+}
+span {
+    content: "\1F893";
+}
+#language-button
+{
+    width: 132px;
+    height: 38px;
+   border:  1px solid #696969;
+   float: left;
+
+}
+.navFooter-area
+{
+    width: 100%;
+    float: left;
+    height: 90px;
+    background-color: #232f3d;
+}
+.center-area
+{
+    padding-left: 543px;
+    padding-top: 25px;
+    border-top: 1px solid grey;
+}
+.navFooterLogo
+{
+    height: 35px;
+    float: left;
+    padding-right: 65px;
+}
+#country-button
+{
+    border:  1px solid #696969;
+    margin: 12px;
+    margin-top: 0%;
+}
+.navFooterDesc
+{
+    width: 87%;
+    float: left;
+    height: 198px;
+    margin-left: 193px;
+        background-color: #131A22;
+        color: white;
+}
+.navFooterDesc-row1
+{
+    float: left;
+    font-size: 11px;
+    width: 86%;
+    height: 100%;
+    padding-left: 211px;
+    color: rgb(93, 89, 89);
+}
+.navFooterDesc-row2
+{
+    float: left;
+    font-size: 11px;
+}
+.first-column
+{
+    height: 179px;
+    width: 265px;
+    padding-left: 63px;
+}
+.navFooterDescItem_heading
+{
+    font-size: 11px;
+    margin-bottom: 0px;
+}
+.final-footer
+{
+    background-color: #131921;
+    font-size: 13px;
+    color: white;
+    width: 100%;
+}
+.secondSection
+{
+    float: left;
+    width: 97%;
+    height: 240px;
+    margin-left: 20px;
+    margin-right: 5px
+}
+.box1
+{
+   float: left; 
+   width: 7px;
+}
+.thirdSection
+{
+    float: left;
+    width: 97%;
+    height: 240px;
+    margin-left: 20px;
+    margin-right: 5px
+}
+.seePersonalisedRecommendation
+{
+    height: 103px;
+    background-color: white;
+    font-size: 12px;
+    margin-left: 33%;
+}
+.footer-Para
+{
+    margin: 0%;
+    margin-left: 107px;
+    width: 96px;
+    float: left;
+    margin-left: 108px;
+}
+.footerSignin
+{
+    background-color: yellow;
+    
+    border-radius: 15px 15px 15px 15px;
+    border: 0;
+}
